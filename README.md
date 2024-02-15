@@ -1,8 +1,3 @@
-# Membre du groupe
-- Koné Mory
-- Lamia Gharbi
-- Koizan Appia
-
 
 # Projet-IoT
 
