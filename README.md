@@ -36,7 +36,7 @@ Pour la visualisation des données, nous avons opté pour une application web. l
 # Architecture
 ![Alt text](Architecture/architecture.png)
 
-Les microcontrôlleurs sont connectés à un point d'accès WIFI, ils s'abonnent à un sujet correspondant au nom de leur tour respective, puis publient leurs données sur ce sujet au travers du protocole mqtt.
+Les microcontrôlleurs sont connectés à un point d'accès WIFI, ils publient sur un sujet correspondant au nom de leur tour respective, puis publient leurs données sur ce sujet au travers du protocole mqtt.
 Une fois sur le serveur, nous avons mis en oeuvre un code javascript qui est dans le dossier Application web et nommée firebase_abonne.js. Ce code permet à firebase de s'abonner au sujet d'une tour et donc recois les données dans 
 sa database realtime. Ces données sont ensuite envoyées pour être visualisées sur la page web.
 
