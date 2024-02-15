@@ -33,6 +33,8 @@ Pour la visualisation des données, nous avons opté pour une application web. l
    - Serveur broker public emqx
    - Mqttx pour faciliter l'abonnement et la publication sur le serveur.
 
+# Architecture
+![Alt text](Architecture/architecture.png)
 
 
 
