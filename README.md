@@ -1,3 +1,9 @@
+# Membre du groupe
+- Koné Mory
+- Lamia Gharbi
+- Koizan Appia
+
+
 # Projet-IoT
 
 Le projet consiste à mettre en place une tour hydroponique dans une logique d'economie d'energie. Il fallait mettre en oeuvre une tour qui enverra ses données dans une base de donnée logée dans le cloud.
