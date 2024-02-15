@@ -5,20 +5,18 @@ Ces données seront ensuite visualiser sur une application web ou android.
 Il a deux partie principale à savoir la partie materielle et la partie logicielle.
 
 # Partie materielle
-Pour mettre en oeuvre cette partie, nous avons d'abord concçu notre tour hydroponique; à la suite de quoi, nous avons faire des choix de materiels.
-Pour ce projet, nous avons choisi comme materiel:
-    - un capteur DHT22 pour mesurer la temperature et l'humidité
-    - une pompe à eau pour arroser les plantes
-    - un tuyau pour faire circuler l'eau
-    - un microcontrôlleur: ESP32
-    - des fils pour connecter les composants electroniques
-Nous avons par ailleurs utilisé le logiciel Arduino ide pour la programmation de notre ESP32. Vous pouvez voir le code dans le dossier Arduino_code.
+  - un capteur DHT22 pour mesurer la temperature et l'humidité
+  - une pompe à eau pour arroser les plantes
+  - un tuyau pour faire circuler l'eau
+  - un microcontrôlleur: ESP32
+  - des fils pour connecter les composants electroniques
+Ceux sont nos choix materiels pour mettre en oeuvre la tour hydroponique.
 
 # Partie logicielle
 
 Pour mettre en place la partie logicielle, nous avons mené des choix des outils à utiliser.
-Pour la visualisation des données, nous avons opté pour une application web.
-Nos choix sont les suivants:
+Pour la visualisation des données, nous avons opté pour une application web. les points suivants detaillent nos choix.
+
    # Application web
 
    - HTML, CSS et Javascript pour la mise en oeuvre du site
