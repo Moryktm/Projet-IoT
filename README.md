@@ -2,8 +2,8 @@
 # Projet-IoT
 
 Le projet consiste à mettre en place une tour hydroponique dans une logique d'economie d'energie. Il fallait mettre en oeuvre une tour qui enverra ses données dans une base de donnée logée dans le cloud.
-Ces données seront ensuite visualiser sur une application web ou android.
-Il a deux partie principale à savoir la partie materielle et la partie logicielle.
+Ces données seront ensuite visualisées sur une application web ou android.
+Il a deux parties principales à savoir la partie materielle et la partie logicielle.
 
 # Partie materielle
   - un capteur DHT22 pour mesurer la temperature et l'humidité
@@ -11,7 +11,7 @@ Il a deux partie principale à savoir la partie materielle et la partie logiciel
   - un tuyau pour faire circuler l'eau
   - un microcontrôlleur: ESP32
   - des fils pour connecter les composants electroniques
-Ceux sont nos choix materiels pour mettre en oeuvre la tour hydroponique.
+Ceux-ci sont nos choix materiels pour mettre en oeuvre la tour hydroponique.
 
 # Partie logicielle
 
@@ -27,7 +27,7 @@ Pour la visualisation des données, nous avons opté pour une application web. l
 
    # Cloud
 
-   - Firebase: nous avons utilisé sa fonctionnalité Database realtime pour l'envoi des donnée en temps réel
+   - Firebase: nous avons utilisé sa fonctionnalité Database realtime pour l'envoi des données en temps réel
 
    # Logicielle pour la partie materielle
 
